@@ -6,6 +6,22 @@ img{
     border: #212A3F solid 3px;
     box-shadow: #2E2E2E 0px 0px 15px ;
   }
+  img:hover{
+    filter: scale(1);
+    transform: scale(1.2);
+}
+  fieldset{
+    background-color: #434F5B;
+    color: #faf8f8;
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+  }
+  #leg{
+    color: #2E2E2E;
+    font-size:30px ;
+    font-family: 'Dancing Script', cursive;
+
+  }
   
   header{
     font-family: 'Dancing Script', cursive;
